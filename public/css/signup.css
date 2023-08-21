@@ -1,0 +1,23 @@
+.signup-container {
+  /* background-color: red; */
+  height: 50vh;
+  margin: 20vh;
+  position: relative;
+  top: 70px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+
+.signup-container > input {
+  height: 30px;
+  width: 50vh;
+  font-size: 22px;
+}
+
+.signup-button {
+    height: 50px;
+    width: 80px;
+    font-size: 20px;
+}
